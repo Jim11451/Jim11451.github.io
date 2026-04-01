@@ -6,3 +6,6 @@ header_pages:
   - research.md
   - projects.md
   - notes.md
+
+minima:
+  skin: dark
