@@ -8,6 +8,6 @@ permalink: /projects/
 
 Simulation of conservative systems using symplectic methods.
 
-## Local LLM Deployment
+## AI for Science
 
-Running lightweight LLMs on Raspberry Pi.
+Running lightweight models to solve physics problems.
