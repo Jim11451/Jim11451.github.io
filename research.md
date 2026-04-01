@@ -6,6 +6,6 @@ permalink: /research/
 
 ## Research Interests
 
-- Nuclear Physics
-- UPC J/ψ analysis
-- Computational methods
+- Nuclear medication
+- QGP analysis
+- DM search and BSM models
